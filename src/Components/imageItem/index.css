@@ -1,0 +1,10 @@
+.btn {
+  background-color: transparent;
+  border-width: 0px;
+  margin: 5px;
+}
+.image {
+  height: 60px;
+  width: 60px;
+  border-radius: 4px;
+}

@@ -1,0 +1,26 @@
+.tab-item {
+  color: #ffffff;
+  font-family: 'roboto';
+  font-size: 14px;
+  font-weight: 500;
+  margin-right: 15px;
+  background-color: transparent;
+  border-width: 0px;
+}
+.select-item {
+  border-width: 0px;
+  border-bottom-width: 3px;
+  border-bottom-style: solid;
+  border-bottom-color: #fec653;
+  color: #fec653;
+  font-family: 'roboto';
+  font-size: 14px;
+  font-weight: 500;
+  margin-right: 15px;
+  background-color: transparent;
+  outline: none;
+}
+@media (min-width: 576px) {
+}
+@media (min-width: 768px) {
+}
